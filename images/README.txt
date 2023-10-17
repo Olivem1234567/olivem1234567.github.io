@@ -1,1 +1,1 @@
-This is where ALL images should go just link the image to /images/example.png/jpg and ofc change the example and/or filetype to the image.
+THIS IS THE ASSETS FOLDER, dont wanna delete it so yeah, folder dirs are images/images, images/videos, and images/audio.
