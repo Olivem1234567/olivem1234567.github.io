@@ -1,1 +1,1 @@
-THIS IS THE ASSETS FOLDER, dont wanna delete it so yeah, folder dirs are images/images, images/videos, and images/audio.
+THIS IS THE ASSETS FOLDER, folder dirs are assets/images, assets/videos, and assets/audio.
