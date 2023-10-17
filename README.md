@@ -1,5 +1,3 @@
 Welcome to my small website!
 
-Contributors
-
-Liam, Ollie
+Contributors : Liam, Ollie
