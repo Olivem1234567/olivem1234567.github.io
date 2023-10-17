@@ -1,1 +1,1 @@
-![Book logo](/docs/assets/logo.png)
+![Book logo](/main/assets/logo.png)
