@@ -1,17 +1,9 @@
-<style>
-#grad1 {
-  height: 200px;
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(red, yellow);
+div {
+  background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50);
 }
-</style>
-</head>
-<body>
-
-<h1>Linear Gradient - Top to Bottom</h1>
-<p>This linear gradient starts red at the top, transitioning to yellow at the bottom:</p>
-
-<div id="grad1"></div>
 /* echos style */
 
 body {
