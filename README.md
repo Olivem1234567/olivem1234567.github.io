@@ -1,3 +1,6 @@
+<b>DO NOT ADD ANYTHING WITHOUT MY PERMISSION (UNLESS YOUR ECHO)</b> 
+
+
 Welcome to my small website!
 
 Contributors: Liam, Ollie
