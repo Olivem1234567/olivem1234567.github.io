@@ -56,7 +56,3 @@ label {
 
 a {font-size: 25px}
 
-gradient {
-  background: rgb(251,255,0);
-background: linear-gradient(90deg, rgba(251,255,0,1) 0%, rgba(211,0,255,1) 100%);
-}
