@@ -4,7 +4,6 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #BB0000;
   margin: 0;
   text-align: center; /* align text to the center */
 }
@@ -64,5 +63,9 @@ ul {
 
 li {
   display: inline;
+}
+
+#grad {
+  background-image: linear-gradient(red, yellow);
 }
 
