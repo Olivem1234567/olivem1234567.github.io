@@ -4,7 +4,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  backround-color: lightblue;
+  backround-color: #31B4E7;
   margin: 0;
   text-align: center; /* align text to the center */
 }
@@ -60,6 +60,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  
 }
 
 li {
