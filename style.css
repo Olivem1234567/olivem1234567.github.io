@@ -65,7 +65,7 @@ li {
   display: inline;
 }
 
-#grad {
+grad {
   background-image: linear-gradient(red, yellow);
 }
 
