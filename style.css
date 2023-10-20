@@ -4,6 +4,7 @@
 
 body {
   font-family: Arial, sans-serif;
+  backround-color: lightblue;
   margin: 0;
   text-align: center; /* align text to the center */
 }
@@ -65,7 +66,4 @@ li {
   display: inline;
 }
 
-grad {
-  background-image: linear-gradient(red, yellow);
-}
 
