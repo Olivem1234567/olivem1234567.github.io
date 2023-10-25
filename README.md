@@ -1,9 +1,6 @@
 <h1 align="center">Hello! This is the WeAreWebDevs site!</h1>
 <h3 align="center">This site is getting worked on every day and is close to 500 commits!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
