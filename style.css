@@ -4,7 +4,8 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #1e90ff;
+  background: linear-gradient(to left top, blue, red);
+  background-attachment: fixed; /*edit*/
   margin: 0;
   text-align: center; /* align text to the center */
 }
