@@ -1,50 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Your Info.</title>
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+    <h1>Hello! This page is being taken down</h1>
+    <h2>If you were on this page and thought your IP was leaked it was not it just shows your own IP</h2>
+    <h2>The IP listed is not being tracked, taken, traced or anything of the matter</h2>
+    <h2>If a school admin from my school see's this IT WAS A JOKE I know I did this and it was on a google document which has been deleted</h2>\
+    <h2>I want to put out there that I did that for fun and I want to have a fun experience with coding and not use it for bad things</h2>
+    <h3>Thank you</h3>
   </head>
-  <body>
-    <pre><code style="word-wrap: break-word;overflow-wrap: break-word;white-space: pre-wrap;font-size: 16px;background-color: #e7ecf0;">Loading...</code></pre>
-    <script>
-      let echolog = {};
-      // here is the fun
-      fetch("https://wtfismyip.com/json")
-        .then((response) => response.json())
-        .then((data) => {
-          let echolog = {
-            ipAddress: data.YourFuckingIPAddress,
-            location: data.YourFuckingLocation,
-            hostname: data.YourFuckingHostname,
-            isp: data.YourFuckingISP,
-            city: data.YourFuckingCity,
-            country: data.YourFuckingCountry,
-            countryCode: data.YourFuckingCountryCode,
-            userAgent: navigator.userAgent,
-            windowProp: Object.keys(window).length,
-            windowWidth: window.innerWidth,
-            windowHeight: window.innerHeight,
-            windowRatio: window.innerWidth / window.innerHeight,
-            screenWidth: window.screen.availWidth,
-            screenHeight: window.screen.availHeight,
-            screenRatio: window.screen.availWidth / window.screen.availHeight,
-            DPI: window.devicePixelRatio,
-            colorDepth: window.screen.colorDepth,
-            orientation: window.screen.orientation.type,
-            orientationAngle: window.screen.orientation.angle,
-            os: navigator.platform,
-            threads: navigator.hardwareConcurrency,
-            memory: navigator.deviceMemory,
-            systemLanguages: navigator.languages.join(", "),
-            languages: navigator.language,
-          };
-
-          var codeBlock = document.querySelector("code");
-          codeBlock.innerText = JSON.stringify(echolog, null, 1);
-          hljs.highlightAll();
-        })
-        .catch((error) => console.error(error));
-    </script>
-  </body>
 </html>
