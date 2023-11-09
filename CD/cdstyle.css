@@ -58,5 +58,6 @@ body {
     border: 5px solid gray;
     margin: 0;
     background-image: url('http://placehold.it/200x200');
+    align-text: center;
   }
-  
+
