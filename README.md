@@ -1,5 +1,5 @@
 <h1 align="center">Hello! This is the WeAreWebDevs site!</h1>
-<h3 align="center">This site is getting worked on every day and is close to 500 commits!</h3>
+<h3 align="center">This site is getting worked on every day and has 500 commits! (GOAL = 1000)</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
