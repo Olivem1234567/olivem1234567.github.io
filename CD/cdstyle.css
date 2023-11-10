@@ -2,7 +2,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     margin: 0;
     text-align: center; /* align text to the center */
   }
@@ -10,7 +10,7 @@ body {
   h1,
   h2,
   h3 {
-    color: #333;
+    color: #000000;
   }
   
   button {
@@ -55,9 +55,9 @@ body {
   #boxed {
     width: 175px;
     padding: 65px;
-    border: 5px solid #f0f0f0;
+    border: 5px solid #000000;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
     text-align: center;
   }
 
